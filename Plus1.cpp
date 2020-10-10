@@ -19,5 +19,5 @@ int main() {
 
 int plus1(int x){
 
-    return x = x + 1;
+    return x++;
 }
